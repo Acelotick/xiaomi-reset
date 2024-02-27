@@ -1,0 +1,6 @@
+./*.md
+./*.bat
+./fastboot/*
+./fastboot/low/*
+./fastboot/ultra/*
+./fastboot/high/*

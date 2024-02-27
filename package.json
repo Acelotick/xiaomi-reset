@@ -1,0 +1,24 @@
+{
+  "name": "xiaomi-reset",
+  "version": "0.0.1",
+  "description": "You can find the project description in the readme.md file",
+  "main": "",
+  "scripts": {
+    "start": "en-lang-start.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acelotick/xiaomi-reset"
+  },
+  "keywords": [
+    "xiaomi",
+    "reset",
+    "fastboot",
+    "utility",
+    "fastreset",
+    "device",
+    "smartphone"
+  ],
+  "author": "Vitaliy Karpov",
+  "license": "UNLICENSED"
+}

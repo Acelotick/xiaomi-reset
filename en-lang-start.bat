@@ -9,7 +9,6 @@ echo Disclaimer: The author is not responsible for data loss during phone reset 
 echo Caution: Before performing a full reset, it is strongly recommended to create a backup of important files on your phone.
 echo Also, consider creating a restore point on your Xiaomi smartphone!
 echo Fastboot instructions: Turn off the device, then hold the power button and volume down button after turning it off.
-echo ADB instructions: Ensure ADB driver is installed on your computer, enable USB debugging on your smartphone.
 echo Warning! Do not disconnect the cable from your smartphone, and use a functional cable to avoid failures.
 echo The author takes no responsibility for your actions; you use this at your own risk!
 echo -----

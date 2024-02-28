@@ -17,3 +17,9 @@
 - Fastboot instructions: Turn off the device, then hold the power button and volume down button after turning it off.
 - Warning! Do not disconnect the cable from your smartphone, and use a functional cable to avoid failures.
 - The author takes no responsibility for your actions; you use this at your own risk!
+
+# TEST
+Tested on devices:
+- Xiaomi redmi note 7
+- Xiaomi redmi 9c
+- Xiaomi redmi 9c NFC

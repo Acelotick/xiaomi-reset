@@ -20,6 +20,6 @@
 
 # TEST
 Tested on devices:
-- Xiaomi redmi note 7
-- Xiaomi redmi 9c
-- Xiaomi redmi 9c NFC
+- Xiaomi redmi note 7 [OK
+- Xiaomi redmi 9c [OK]
+- Xiaomi redmi 9c NFC [OK]

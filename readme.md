@@ -8,6 +8,9 @@
 - Предупреждение! Не отключайте кабель от вашего смартфона и используйте исправный кабель, чтобы избежать сбоев.
 - Автор не несет ответственности за ваши действия; вы используете это на свой страх и риск!
 
+# ИСПРАВИТЬ ЦИКЛ ЗАГРУЗКИ или ЗАВИСАНИЕ НА ЛОГО MIUI | MI
+- После завершения этой процедуры необходимо войти в режим recovery, удерживая кнопку включения и кнопку увеличения громкости, а затем выполнить очистку данных, чтобы выйти из возможного цикла загрузки на смартфоне
+
 # EN-US
 -----
 - To proceed, install the necessary tools, fastboot, and drivers in your system.
@@ -18,8 +21,17 @@
 - Warning! Do not disconnect the cable from your smartphone, and use a functional cable to avoid failures.
 - The author takes no responsibility for your actions; you use this at your own risk!
 
+# FIX BOOTLOOP or HANGING ON THE MIUI | MI LOGO
+- After completing this procedure, it is necessary to enter recovery mode by holding down the power button and the volume up button, and then perform a data wipe to exit a potential boot loop on the smartphone
+
 # TEST
-Tested on devices:
-- Xiaomi redmi note 7 [OK
+- Xiaomi redmi note 7 [OK] [Boot Loop]
+ - Standart wipe data
+  - Disk [5 GB]
+  - Stability 9/10
+    
+ - With programm
+  - Disk [2 GB]
+  - Stability 10/10
+  - 
 - Xiaomi redmi 9c [OK]
-- Xiaomi redmi 9c NFC [OK]
